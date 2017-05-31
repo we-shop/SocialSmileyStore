@@ -1,0 +1,2 @@
+# SocialSmileyStore
+Discover, Share, Smile
