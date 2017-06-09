@@ -1,3 +1,4 @@
 framework module Smile {
     header "Smile-Swift.h"
+    requires objc
 }
